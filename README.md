@@ -1,7 +1,12 @@
-# The World in One Image — 17 November 2026
+# news-image-20261117
 
-A program that sums up the world's news of Tuesday, 17 November 2026 in a
-single image. Built for the make.fun bounty
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Nebulanime/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Nebulanime/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+The World in One Image — 17 November 2026. A program that sums up the
+world's news of Tuesday, 17 November 2026 in a single image. Built for the
+make.fun bounty
 [`news-image-20261117`](https://make.fun/bounty/news-image-20261117).
 
 ## What it does
@@ -42,3 +47,7 @@ produce byte-identical output (verified: same SHA-256 across runs).
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
